@@ -36,6 +36,8 @@
 *.dasm16 linguist-detectable=true
 *.dasm16 linguist-documentation=false
 *.dasm16 linguist-language=DCPU-16-ASM
+# Backup overriding option, as GitHub likely won't recognize this language
+*.dasm16 linguist-language=Assembly
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -173,7 +175,9 @@
 # End of linguist script
 
 # File info
+
 # File type: gitattributes file (*.gitattributes)
-# File version: 3 (2022, Monday, October 24th at 6:06 pm PST)
-# Line count (including blank lines and compiler line): 180
+# File version: 4 (2025, Saturday, January 4th at 11:30 pm PST)
+# Line count (including blank lines and compiler line): 184
+
 # End of script
